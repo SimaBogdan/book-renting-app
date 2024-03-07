@@ -13,8 +13,6 @@ def main():
 
     cartiRepository = CarteRepository()
     clientiRepository = ClientiRepository()
-    #inchirieriRepository = InchiriereRepository(cartiRepository, clientiRepository)
-
 
     cartiService = CartiService(cartiRepository)
     clientiService = ClientiService(clientiRepository)
