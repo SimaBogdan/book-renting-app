@@ -1,0 +1,2 @@
+def repositoryException():
+    return None
