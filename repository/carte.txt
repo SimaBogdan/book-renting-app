@@ -1,0 +1,5 @@
+0,LOTR,Middle-Earth,J R R Tolkien
+1,Metro 2033,Post-apocaliptic,Dmitri Gluhovski
+2,A wheel of time,Fantasy,Robert Jordan
+3,The Way of Kings,Trilogie,Brandon Sanderson
+4,Game of Thrones,Grimdark,George R R Martin
